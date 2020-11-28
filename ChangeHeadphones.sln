@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeHeadphones", "ChangeHeadphones.csproj", "{3CD759F8-63B7-49ED-B45A-63B9CBBFCFF5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ChangeHeadphonesConfigsInstaller", "..\AllInstallers\ChangeHeadphonesConfigsInstaller\ChangeHeadphonesConfigsInstaller.vdproj", "{FB905E2E-BBB7-4BD1-B8B5-E69F2B46EE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD759F8-63B7-49ED-B45A-63B9CBBFCFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD759F8-63B7-49ED-B45A-63B9CBBFCFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD759F8-63B7-49ED-B45A-63B9CBBFCFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD759F8-63B7-49ED-B45A-63B9CBBFCFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB905E2E-BBB7-4BD1-B8B5-E69F2B46EE8B}.Debug|Any CPU.ActiveCfg = Debug
+		{FB905E2E-BBB7-4BD1-B8B5-E69F2B46EE8B}.Debug|Any CPU.Build.0 = Debug
+		{FB905E2E-BBB7-4BD1-B8B5-E69F2B46EE8B}.Release|Any CPU.ActiveCfg = Release
+		{FB905E2E-BBB7-4BD1-B8B5-E69F2B46EE8B}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5745B6C0-BEFA-48E4-A51D-44A395F88C85}
+	EndGlobalSection
+EndGlobal
